@@ -1,2 +1,3 @@
 # Responsive-Portfolio
-Week 2 Homework due Oct 13th
+
+Deployed version at https://klbjklbj.github.io/Responsive-Portfolio/index.html
