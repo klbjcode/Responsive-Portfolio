@@ -166,6 +166,8 @@ h3, h2 {
   text-align: center;
   background: #4aaaa5;
   border-bottom: 0;
+  color: #FFFFFF;
+  text-decoration: none;
 }
 
 .auth-image {
