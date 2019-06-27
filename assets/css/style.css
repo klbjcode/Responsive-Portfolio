@@ -170,6 +170,10 @@ h3, h2 {
   text-decoration: none;
 }
 
+.work a{
+  color: white;
+}
+
 .auth-image {
   float: left;
   width: 200px;
